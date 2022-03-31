@@ -128,4 +128,4 @@ You may now proceed to the next lab.
 * **Adapted for Cloud by** -  Nenad Jovicic, Enterprise Strategist, North America Technology Enterprise Architect Solution Engineering Team
 * **Documentation** - Lisa Jamen, User Assistance Developer - Helidon
 * **Contributors** - Jaden McElvey, Technical Lead - Oracle LiveLabs Intern
-* **Last Updated By/Date** - Mayank Tayal, August 2021
+* **Last Updated By/Date** - Irina Granat, March 2022
