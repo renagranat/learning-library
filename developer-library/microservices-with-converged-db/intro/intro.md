@@ -6,6 +6,8 @@
 
 This workshop will help you understand the technical capabilities inside and outside the Oracle converged database to support a scalable data and event-driven microservices architecture.
 
+Estimated Workshop Time: 75 minutes
+
 ### About Product/Technology
 
 Helidon microservices with Javascript front-end will be deployed on Oracle Cloud Infrastructure Kubernetes cluster (OKE) and access pluggable Oracle Autonomous Transaction Processing databases. REST and messaging are being used for communication 
@@ -14,7 +16,6 @@ Helidon microservices with Javascript front-end will be deployed on Oracle Cloud
 
 If you would like to watch us do the workshop, click [here](https://youtu.be/yLBEPjOWaz0).
 
-Estimated Workshop Time: 75 mins
 
 ### Objectives
 
@@ -40,4 +41,4 @@ Estimated Workshop Time: 75 mins
 * **Authors** - Paul Parkinson, Developer Evangelist; Richard Exley, Consulting Member of Technical Staff, Oracle MAA and Exadata, Rena Granat, Consulting Member of Technical Staff, Oracle MAA and Exadata
 * **Adapted for Cloud by** -  Nenad Jovicic, Enterprise Strategist, North America Technology Enterprise Architect Solution Engineering Team
 * **Contributors** - Jaden McElvey, Technical Lead - Oracle LiveLabs Intern
-* **Last Updated By/Date** - Paul Parkinson, December 2021
+* **Last Updated By/Date** - Irina Granat, March 2022
