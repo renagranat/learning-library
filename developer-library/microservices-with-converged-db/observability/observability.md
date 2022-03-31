@@ -152,16 +152,16 @@ You will see some warning messages related to configmaps not existing as this is
 
 7. Install the GrabDish Dashboard
 
-    Select the `+` icon on the left-hand side and select `Import`
+     Select the `+` icon on the left-hand side and select `Import`
 
       ![Import](images/importsidemenu.png " ")
 
-    Copy the contents of the [GrabDish Dashboard JSON](https://raw.githubusercontent.com/oracle/microservices-datadriven/main/grabdish/observability/dashboards/grabdish-dashboard.json)
+     Copy the contents of the [GrabDish Dashboard JSON](https://raw.githubusercontent.com/oracle/microservices-datadriven/main/grabdish/observability/dashboards/grabdish-dashboard.json)
 
-    Paste the contents in the `Import via panel json` text field and click the `Load` button
+     Paste the contents in the `Import via panel json` text field and click the `Load` button
       ![Import via panel json](images/jsondashboardupload.png " ")
 
-    Confirm upload and click `Import` button.
+     Confirm upload and click `Import` button.
       ![Import button](images/confirmdashimport.png " ")
 
 
@@ -184,9 +184,9 @@ for an more in-depth look at this topic including details of the metrics, logs, 
     - Metrics about the PDB used by the microservice (open sessions, etc.)
     - Metrics about the PDB specific to that microservice (inventory count)
 
-      ![Frontend dashboard](images/frontenddashscreen.png " ")
-      ![Order dashboard](images/orderdashscreen.png " ")
-      ![Inventory dashboard](images/inventorydashscreen.png " ")
+      ![Frontend Dashboard](images/frontenddashscreen.png " ")
+      ![Order Dashboard](images/orderdashscreen.png " ")
+      ![Inventory Dashboard](images/inventorydashscreen.png " ")
 
 4. If not already done, place an order using the application or run the scaling test in the earlier labs to see the metric activity in the dashboard.
 
@@ -222,4 +222,4 @@ You may now proceed to the next lab.
 
 ## Acknowledgements
 * **Author** - Paul Parkinson, Developer Evangelist
-* **Last Updated By/Date** - Paul Parkinson, August 2021
+* **Last Updated By/Date** - Irina Granat, March 2022
