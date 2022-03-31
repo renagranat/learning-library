@@ -33,7 +33,7 @@ When you first access APEX you will need to log in as an APEX instance administr
 
 3. Click **Create Workspace**.
 
-   ![Create Workspace Screen](images/welcome-create-workspace-inv.png)
+    ![Create Workspace Screen](images/welcome-create-workspace-inv.png)
 
 4. Set **Database User** to **INVENTORYUSER** and then click **Create Workspace**.
 
@@ -115,4 +115,4 @@ You may now proceed to the next lab.
 * **Adapted for Cloud by** - Nenad Jovicic, Enterprise Strategist, North America Technology Enterprise Architect Solution Engineering Team
 * **Documentation** - Lisa Jamen, User Assistance Developer - Helidon
 * **Contributors** - Jaden McElvey, Technical Lead - Oracle LiveLabs Intern
-* **Last Updated By/Date** - Tom McGinn, June 2020
+* **Last Updated By/Date** - Irina Granat, March 2022
