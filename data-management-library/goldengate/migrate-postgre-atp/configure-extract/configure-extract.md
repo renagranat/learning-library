@@ -164,7 +164,7 @@ For a technical overview of this lab step, please watch the following video:
 	</copy>
 	```
 
-	![Commands to enable supplemantal logging at table level.](/images/gg_pg_trandata.png)
+	![Commands to enable supplemental logging at table level.](/images/gg_pg_trandata.png)
 
 ## Task 9: Registering EXTTAR
 
@@ -231,7 +231,7 @@ Oracle GoldenGate needs to register an extract with the database replication slo
 	</copy>
 	```
 
-	![Output confirming extact process is correct.](/images/gg_pg_exttar_3.png)
+	![Output confirming extract process is correct.](/images/gg_pg_exttar_3.png)
 
 6. After completing this, you should be able to check the status of the extract with **`info all`** command and the result should show the **RUNNING** state.
 
@@ -368,7 +368,7 @@ Up to now, we created 2 extract processes that are now capturing changes and shi
 	</copy>
 	```
 
-	![Output showing using sourcetable type.](/images/gg_pg_initload_2.png)
+	![Output showing using sourceistable type.](/images/gg_pg_initload_2.png)
 
 5. Confirm everything is correct then start the initial load by issuing the below command.
 

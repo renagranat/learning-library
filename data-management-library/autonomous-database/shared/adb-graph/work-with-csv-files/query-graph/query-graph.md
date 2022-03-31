@@ -121,6 +121,18 @@ Name it `Learn/BankGraph: Find Circular Payments`.
 
  
 --->
+
+**Note:** *When you open a notebook it spawns a task to enable the interpreters which let you execute code snippets in a paragraph.*
+
+That is, a notebook requires an environment, or compute, for interpreting and executing the lines of code entered in its paragraphs.  
+Open the menu on the top-right corner to check whether the environment is attached, i.e. ready for use. 
+
+![ALT text is not available for this image](images/env-attaching.png " ")
+
+If the status is attaching you can choose to wait for the 20-30 seconds it may take to start up the environment. If the environment is attached it will be indicated by a green icon and the amount of memory (e.g. 14Gb) available for executing code and loading graphs into memory.  
+
+![ALT text is not available for this image](images/env-attached.png " ")
+
 ## Task 2: Load and Query the `BANK_GRAPH` and visualize the results 
 
 **Note:** *Execute the relevant paragraph after reading the description in each of the steps below*. 
@@ -141,7 +153,13 @@ Name it `Learn/BankGraph: Find Circular Payments`.
 
 ![ALT text is no available for this image](images/1-java-read-graph.png " ")  
 
-2. Next execute the paragraph which queires and displays 100 elements of the graph.    
+
+**Note:** *If the compute environment is not ready as yet and the code cannot be executed then you will see a blue line moving across the bootom of the paragraph to indicate that a background task is in progress.  
+
+![ALT text is not available for this image](images/env-not-ready.png " ")  
+
+
+1. Next execute the paragraph which queries and displays 100 elements of the graph.    
    
 	```
 	%pgql-pgx
@@ -401,7 +419,7 @@ Steps required for customizing the visualization:
 
 ![ALT text is not available for this image](images/53-java-pagerank.png " ")
 
-11.  Now let's use the computed PageRank value in visualizing a PGQL query result.  
+12.  Now let's use the computed PageRank value in visualizing a PGQL query result.  
  <!-- 
     First add a Markdown paragraph outlining the next step.  
 
@@ -443,7 +461,7 @@ Steps required for customizing the visualization:
    ![ALT text is not available for this image](images/55-query-with-pagerank.png " ")
 
 
-12.  Now let's compare the top ten accounts by PageRank and number of transactions.  
+13.  Now let's compare the top ten accounts by PageRank and number of transactions.  
 
 <!-- 
     Add a Markdown paragraph.  
@@ -472,7 +490,7 @@ Execute the paragraph with the following query to show the top ten accounts by P
 
 	![ALT text is not available for this image](images/57-top-ten-pagerank.png " ")    
 
-13.  And the one which shows top ten accounts by number of transfers.  
+14.  And the one which shows top ten accounts by number of transfers.  
 
     ```
 	%pgql-pgx
@@ -484,7 +502,7 @@ Execute the paragraph with the following query to show the top ten accounts by P
 
 	![ALT text is not available for this image](images/58-top-ten-num-transfers.png " ")    
 
-14. Account #222 is in the top ten by PageRank but not by # of transfers. So let us look at that account and its immediate neighbors in the graph.  
+15. Account #222 is in the top ten by PageRank but not by # of transfers. So let us look at that account and its immediate neighbors in the graph.  
  <!--     
     Add a markdown paragraph.
 
@@ -519,7 +537,7 @@ Steps required for customizing the visualization:
 	 
 ![ALT text is not available for this image](images/60-account-222-and-neighbors.png " ")    
     
-15.  Similarly account #4 has a higher PageRank but is not in the top 10 by #transfers while account #380 is in the top 10 by #transfers but not by PageRank.   
+16.  Similarly account #4 has a higher PageRank but is not in the top 10 by #transfers while account #380 is in the top 10 by #transfers but not by PageRank.   
     So let us look at those two and their neighbors.  
 
 

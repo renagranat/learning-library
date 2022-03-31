@@ -37,7 +37,7 @@ One of the objectives of this workshop is to show the integration of Oracle Auto
     ![MongoDB Free Option](./images/task1/mongodb_free_option.png)
     ![MongoDB CloudProvider](./images/task1/mongodb_cloud_provider.png)
     
-    > Note: If you get a **Quick Start wizard**, please feel out the information skip step 3. Add Public IP address (Step 4 of this Task). Add Database User (Step 5 of this Task).
+    > Note: If you get a **Quick Start wizard**, please fill out the following information: Add Public IP address (Step 4 of this Task) and Add Database User (Step 5 of this Task). Otherwise go to the next step number 3.
 
     ![MongoDB Quick Start](./images/task1/mongodb_quick_start.png)
 

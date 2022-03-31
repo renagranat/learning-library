@@ -354,4 +354,5 @@ Now we're going to look at a SQL view of the same data, showing how you can swap
 ## Acknowledgements
 
 - **Author** - Roger Ford, Principal Product Manager
+- **Contributors** - Kamryn Vinson, Andres Quintana
 - **Last Updated By/Date** - Roger Ford, March 2022

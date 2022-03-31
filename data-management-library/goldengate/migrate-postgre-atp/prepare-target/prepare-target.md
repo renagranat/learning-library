@@ -57,7 +57,7 @@ For a technical overview of this lab step, please watch the following video:
 	</copy>
 	```
 
-	![Run the SQL querry.](/images/sql_dev_3.png)
+	![Run the SQL query.](/images/sql_dev_3.png)
 
 2. Let's check whether the parameter `enable_goldengate_replicaton` is set to true. 
 

@@ -1,0 +1,1 @@
+Screenshot shows the improved performance of Test 2 after enabling auto scaling.

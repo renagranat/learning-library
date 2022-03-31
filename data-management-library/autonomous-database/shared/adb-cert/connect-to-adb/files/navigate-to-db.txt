@@ -1,0 +1,1 @@
+Shows the menu to option to navigate to database

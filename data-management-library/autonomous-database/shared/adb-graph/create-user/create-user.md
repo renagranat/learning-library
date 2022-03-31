@@ -66,7 +66,7 @@ Learn how to
 
    **Note:** *The UI steps above can be instead done by executing the following sql commands listed below when logged in as ADMIN. So Step 5 below is not necessary. It shows an alternate way of creating and enabling GRAPHUSER.*
    
-1. Allocate a desired table space quota to the newly created user. Open the SQL page and issue the alter command.  
+5. Allocate a desired table space quota to the newly created user. Open the SQL page and issue the alter command.  
 
    For example, 
    `ALTER USER GRAPHUSER QUOTA UNLIMITED ON DATA;`   
@@ -97,7 +97,7 @@ Learn how to
 
    ![ALT text is not available for this image](./images/user-altered.png " ") 
  
- 1. You can similarly use SQL statements to verify that GRAPHUSER has been set up correctly.  
+ 6. You can similarly use SQL statements to verify that GRAPHUSER has been set up correctly.  
     
     You must be logged into Data Actions SQL as `ADMIN` then enter the following SQL statements and execute them. 
      

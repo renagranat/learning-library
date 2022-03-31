@@ -169,7 +169,7 @@ For a technical overview of this lab step, please watch the following video:
 
 	There's a city ID **TMS** with wrong city name, Ploiesti. It should have been **Timisoara**. Let's make some correction!
 
-	![SQL querry output.](/images/pg_select_0.png)
+	![SQL query output.](/images/pg_select_0.png)
 	
 2. Go to the **cloud-shell home** environment and issue the below command with the source database. **Make sure** you changed _**ip address**_ with your source database's IP Address!
 
@@ -245,7 +245,7 @@ For a technical overview of this lab step, please watch the following video:
 	
 3. You can also re-check this record using **SQL Developer Web** in Autonomous Database dashboard. The row value is already updated at source database and GoldenGate had replicated to our target Autonomous Database.
 
-	![SQL querry output showing updated record.](/images/pg_select.png)
+	![SQL query output showing updated record.](/images/pg_select.png)
 
 Congratulations! You have completed this workshop! 
 

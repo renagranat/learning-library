@@ -1,0 +1,1 @@
+Click the checkbox to re-enable auto scaling.

@@ -213,4 +213,5 @@ In the next lab we'll cover Autonomous Database tools, including JSON Workshop a
 ## Acknowledgements
 
 - **Author** - Roger Ford, Principal Product Manager
+- **Contributors** - Kamryn Vinson, Andres Quintana
 - **Last Updated By/Date** - Roger Ford, March 2022

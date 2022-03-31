@@ -34,7 +34,7 @@ To install the MySQL Database service, follow these steps:
 
 1. In the Oracle Cloud Menu, go to Database / MySQL. Click "Create MySQL Database System"
 
-	![MySQL Before Create](images/mysql-before-create.png)
+![MySQL Before Create](images/mysql-before-create.png)
 
 2. Please use these paramaters:
     - Name: mysql
@@ -43,7 +43,7 @@ To install the MySQL Database service, follow these steps:
     - In Configure Networking, choose the VCN that was created by the OKE wizard : oke-vcn-quick-cluster1-xxxxx (##2##)
     - Subnet: oke-nodesubnet-quick-cluster1-xxxx-regional (##3##)
 
-	![MySQL Create](images/mysql-create.png)
+![MySQL Create](images/mysql-create.png)
 
 3. Click Create. 
 4. When the database is installed. Please note the Private IP Address (##4##). The MySQL port will be 3306.

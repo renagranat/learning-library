@@ -1,4 +1,4 @@
-# Create SSH Keys Using Oracle Cloud Shell
+# Create SSH keys using Oracle Cloud shell
 
 ## Introduction
 

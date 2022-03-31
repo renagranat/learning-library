@@ -1,0 +1,1 @@
+In Performance Hub click the SQL Monitoring tab.

@@ -1,0 +1,1 @@
+Shows where to enter username, password, and select cloud wallet
